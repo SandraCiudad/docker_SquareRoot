@@ -1,0 +1,3 @@
+/home/ci/Documentos/compartir/SquareRoot/build/CMakeFiles/rebuild_cache.dir
+/home/ci/Documentos/compartir/SquareRoot/build/CMakeFiles/edit_cache.dir
+/home/ci/Documentos/compartir/SquareRoot/build/CMakeFiles/executeTests.dir

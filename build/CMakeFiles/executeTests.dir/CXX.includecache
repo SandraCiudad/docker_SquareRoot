@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ci/Documentos/compartir/SquareRoot/sqrt.cpp
+sqrt.hpp
+/home/ci/Documentos/compartir/SquareRoot/sqrt.hpp
+math.h
+-
+
+/home/ci/Documentos/compartir/SquareRoot/sqrt.hpp
+
+/home/ci/Documentos/compartir/SquareRoot/sqrt_test.cpp
+limits.h
+-
+gtest/gtest.h
+-
+sqrt.hpp
+/home/ci/Documentos/compartir/SquareRoot/sqrt.hpp
+sqrt.cpp
+/home/ci/Documentos/compartir/SquareRoot/sqrt.cpp
+
